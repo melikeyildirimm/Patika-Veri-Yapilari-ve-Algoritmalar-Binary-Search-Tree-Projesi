@@ -2,7 +2,7 @@
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
 
-8 sayısı root olarak belirliyorum.
+**8 sayısı root olarak belirliyorum.**
 
 7<8 o nedenle 8 in solunda yer alacak.
 
@@ -92,7 +92,7 @@
        4      
 -------------------------------------------------------------------------
 
-2<5, 2>1 2<3
+2<5, 2>1, 2<3
 
         8
        / \
